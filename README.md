@@ -1,4 +1,7 @@
-# TodoAppUI
+# TodoApp-UI
+UI for simple Todo application
+
+Built with Angular. Integrated with backend services from this repo https://github.com/bmsbharathi/todoapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
